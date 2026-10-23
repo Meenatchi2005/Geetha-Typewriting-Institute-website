@@ -1,0 +1,6 @@
+{
+  "name": "Geetha Typewriting Institute",
+  "description": "A modern, responsive web application for Geetha Typewriting Institute, a premium typewriting, shorthand, and computer training institute in Tamil Nadu, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
